@@ -1,0 +1,4 @@
+cd Career
+./venv/Scripts/activate
+cd careerscraper
+scrapy crawl careerspider

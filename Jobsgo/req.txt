@@ -1,0 +1,4 @@
+cd Jobsgo
+./venv/Scripts/activate
+cd jobsgoscraper
+scrapy crawl jobsgospider

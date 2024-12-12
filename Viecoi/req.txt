@@ -1,0 +1,4 @@
+cd Viecoi
+./venv/Scripts/activate
+cd viecoiscraper
+scrapy crawl viecoispider

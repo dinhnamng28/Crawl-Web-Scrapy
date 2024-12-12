@@ -1,0 +1,4 @@
+cd Topcv
+./venv/Scripts/activate
+cd topcvscraper
+scrapy crawl topcvspider
